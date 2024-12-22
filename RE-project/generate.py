@@ -34,7 +34,7 @@ if __name__ == "__main__":
     api_key = "sk-niFhra72GcRwpCl5bPkZ4bIvlKafWSUEVMOiwOgXoCoo8Trd"  # 替换为你的 OpenAI API 密钥
     csv_file = 'embeddings.csv'  # 替换为你的包含嵌入的 CSV 文件路径
 
-    query = "简短一点，请你阅读下面的内容，使用基于视角的需求提取方法，从中提取出汽车安全监控系统的需求,下面是文档内容:"
+    query = "请你阅读下面的内容，使用基于视角的需求提取方法，从中提取出汽车安全监控系统的需求,下面是文档内容:"
 
     txt_file = 'document.txt'
 
